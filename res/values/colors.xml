@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="appColor">#ED7700</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_grey">#313030</color>
+    <color name="black">#000000</color>
+    <color name="signupcolor">#1db793</color>
+    <color name="profilename">#850157</color>
+    <color name="profile_pic_border_color">#ccc</color>
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="gray_2">#AFAFAF</color>
+    <color name="gray_1">#C0C0C0</color>
+    <color name="background">#F2ECE5</color>
+    <color name="Blue">#3679C0</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="theme_color">#3366cc</color>
+    <color name="navbar_bg">#998c95c1</color>
+    <color name="green">#5ca04d</color>
+    <color name="accept_green">#32c532</color>
+    <color name="red">#cb0614</color>
+   	<color name="reject_red">#c53435</color>
+    <color name="grey_3">#646363 </color>
+    <color name="grey_4">#828181</color>
+    <color name="White">#ffffff</color>
+    <color name="Black">#000000</color>
+    <color name="Gray">#c9c9c9</color>
+    <color name="GrayLight">#eeeeee</color>
+    <color name="GrayHot">#272727</color>
+</resources>
